@@ -73,14 +73,6 @@ header{
   height: 110px;
   margin-bottom: 10px;
 }
-main{
-  background-color: yellow;
-  display: flex;
-  justify-content: space-around;
-  align-items: flex-start;
-  margin-bottom: 10px;
-  border-radius: 10px;
-}
 .pais{
   background-color: orange;
   justify-content: space-around;
