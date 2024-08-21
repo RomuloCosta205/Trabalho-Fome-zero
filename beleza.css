@@ -1,0 +1,16 @@
+body{
+  background-color: gainsboro;
+}
+nav{
+  background-color: cyan;
+  height: 250px;
+  justify-content: space-around;
+  display: flex;
+  align-items: flex-start;
+}
+footer{
+  background-color: darkblue;
+  height: 80px;
+  color: white;
+}
+
